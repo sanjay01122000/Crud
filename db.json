@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Sanjay yadavv",
+      "email": "sanjay@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Hemant pandey",
+      "email": "hemant@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Nilesh pandey",
+      "email": "nilesh@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Mulayam yadav",
+      "email": "mulaym@gmail.com"
+    }
+  ]
+}

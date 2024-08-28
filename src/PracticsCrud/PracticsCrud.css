@@ -1,0 +1,28 @@
+.Crud {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    color: palevioletred;
+}
+.editbtn {
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua;
+    color: palevioletred; */
+}
+.addbtn {
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua;
+    color: palevioletred; */
+}
+.centerdiv {
+    display: flex;
+    justify-content: center;
+}
+.btncenter{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    color: palevioletred;  
+}
